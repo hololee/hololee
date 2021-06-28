@@ -39,6 +39,7 @@ https://hub.docker.com/
 
 
 ### Blog  
+코딩하며 경험한 여러가지 문제들의 해결과 저장용 팁, 취미를 공유하는 블로그 입니다.  
 https://blog.naver.com/lccandol  
 
 
