@@ -3,8 +3,6 @@
 ### _Now I'm working for_  
 ![image](https://github.com/hololee/hololee/blob/main/%EC%9E%90%EC%82%B0%203_final.png?raw=true)  
 
-### 관심분야
-- #### ~~~
 
 ### Tasks
 - #### ```Vision```   
@@ -13,31 +11,49 @@
   - ##### *Semantic Segmentation*
   - ##### *Instance Segmentation*
 
+- #### ```Mobile```
+  - ##### *Android Application*
+
 <br/><br/> 
 
 ### AI Projects
+|Repo|Type|Content|etc|
+|---|---|---|---|
+|||||
+|||||
+|||||
+|||||
+|[YOLO_LITE](https://github.com/hololee/YOLO_LITE)|Detection|Yololite의 각 layer를 두배 적층한 네트워크. 콩 작물, 잡초 분류 검출.|pytorch| 
+|[paf_test](https://github.com/hololee/paf_test)|Segmentation|파프리카 잎 segmentation test|tensorflow 1.x|
+|lotte_vision_competition|Classification|롯데 비전 대회|not opend|  
+|Attention_Auto_Labeling|Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|not opend|  
 
-|Repo|Link|Type|Content|Doc|
-|---|---|---|---|---|
-|   |   |   |   |     | 
-|   |   |   |   |    | 
+### APP Projects 
+|Repo|Type|Content|etc|
+|---|---|---|---|
+|||||
+|||||
 
-
-### APP Projects
-|Repo|Link|Type|Content|Doc|
-|---|---|---|---|---|
-|   |   |   |   |     | 
-|   |   |   |   |    | 
+### Iot Projects 
+|Repo|Type|Content|etc|
+|---|---|---|---|
+|||||
+|||||
   
-### Usable Application Projects  
-|Repo|Link|Type|Content|Doc|
-|---|---|---|---|---|
-|   |   |   |   |     | 
-|   |   |   |   |    | 
+### Usable Projects  
+|Repo|Type|Content|etc|
+|---|---|---|---|
+|[PlantsDataUploader](https://github.com/hololee/PlantsDataUploader)|Windows app|10가지 작물 데이터 수집을 위한 이미지 업로더 프로그램.|Released| 
+|[How-to-set-up-deeplearning-server](https://github.com/hololee/How-to-set-up-deeplearning-server)|Instruction|딥러닝 서버 구축 방법|-|
+|||||
 
+### Algorithm training
+|Repo|Type|Content|etc|
+|---|---|---|---|
+|[algorithm](https://github.com/hololee/algorithm)| training |알고리즘 풀이 기록|-| 
+|||||
 
-### Papers
-
+<br/><br/> 
 
 ### Status
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
