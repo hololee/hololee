@@ -25,14 +25,14 @@
 |[Dot_To_Mask_instance_segmentation](https://github.com/hololee/Dot_To_Mask_instance_segmentation)|Instance segmentation|Dot based Instance segmentation|tensorflow 1.x|
 |[Instance_segmentation_with_discriminativeloss](https://github.com/hololee/Instance_segmentation_with_discriminativeloss)|Instance segmentation|discriminative loss를 이용한 Instance segmentation|tensorflow 1.x|
 |[YOLACT](https://github.com/hololee/YOLACT)|Instance segmentation|YOLACT를 이용한 딸기 숙성도 판별|pytorch|
-|[paf_test](https://github.com/hololee/paf_test)|Segmentation|파프리카 잎 segmentation test|tensorflow 1.x|
+|[paf_test](https://github.com/hololee/paf_test)|Semantic Segmentation|파프리카 잎 segmentation test|tensorflow 1.x|
 |[cvpppnet](https://github.com/hololee/cvpppnet)|Semantic segmentation|CVPPP 데이터셋을 대상으로 다양한 segmentation 실험|tensorflow 1.x|
 |[dcgan](https://github.com/hololee/dcgan)|Gan|dcgan 구현 연습|pytorch|
 |[style transfer](https://github.com/hololee/style_transfer)|transfer|style transfer 구현 연습|pytorch|
 |[Spatial transformer](https://github.com/hololee/spatial_tranformer_network)|-|Spatial transformer 구현 연습|pytorch|
 |[Implement-neural-network-from-scratch](https://github.com/hololee/Implement-neural-network-from-scratch)|-|MLP scratch 구현|Numpy|
 |[Implement-convolutional-neural-network-from-scratch](https://github.com/hololee/Implement-convolutional-neural-network-from-scratch)|-|CNN scratch 구현|numpy|
-|Attention_Auto_Labeling|Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|soon will be opend|  
+|Attention_Auto_Labeling|Semantic Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|soon will be opend|  
 |[pruning_network_sample](https://github.com/hololee/pruning_network_sample)|Pruning|pruning 연습|test|
 
 <br/>
