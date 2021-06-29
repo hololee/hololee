@@ -79,6 +79,8 @@
 ### Status
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
+### LinkedIn
+https://www.linkedin.com/in/hololee-0410201b3/
 
 ### DockerHub  
 자주 사용한는 pytorch, tensorflow 이미지를 공유합니다.  
