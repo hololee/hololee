@@ -2,7 +2,7 @@
 
 ### _Now I'm working for_  
 ![image](https://github.com/hololee/hololee/blob/main/grepp.png?raw=true)  
-
+![image](https://github.com/hololee/hololee/blob/main/pro.png?raw=true) ![image](https://github.com/hololee/hololee/blob/main/mo.png?raw=true)  
 
 ### Tasks
 - #### ```Vision```   
