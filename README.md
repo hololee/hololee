@@ -1,10 +1,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhololee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
 
-### _Now I'm working for_  
+### _Now I'm working for_  (AI Engineer Zayden)
 ![image](https://github.com/hololee/hololee/blob/main/grepp.png?raw=true)  
-![image](https://github.com/hololee/hololee/blob/main/pro.png?raw=true) ![image](https://github.com/hololee/hololee/blob/main/mo.png?raw=true)  
 
-### Tasks
+### _GREPP Service_
+![image](https://github.com/hololee/hololee/blob/main/pro.png?raw=true)  
+![image](https://github.com/hololee/hololee/blob/main/mo.png?raw=true)  
+
+### My tasks
 - #### ```Vision```   
   - ##### *Classification*
   - ##### *Object Detection*
