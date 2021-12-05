@@ -1,23 +1,20 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhololee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
 
-### _Now I'm working for_  (AI Engineer Zayden)
-![image](https://github.com/hololee/hololee/blob/main/grepp.png?raw=true)  
+### Now I'm working for GREPP  (AI Engineer Zayden)   
 
-### _GREPP Service_
-![image](https://github.com/hololee/hololee/blob/main/pro.png?raw=true)  
-![image](https://github.com/hololee/hololee/blob/main/mo.png?raw=true)  
+<img src="https://github.com/hololee/hololee/blob/main/grepp.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/pro.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/mo.png?raw=true" height="60">
+<br/><br/> 
+
+---
 
 ### My tasks
-- #### ```Vision```   
-  - ##### *Classification*
-  - ##### *Object Detection*
-  - ##### *Semantic Segmentation*
-  - ##### *Instance Segmentation*
+|Task|||||
+|:---:|:---:|:---:|:---:|:---:|
+|```Vision```| *Classification* |*Object Detection*|*Semantic Segmentation*|*Instance Segmentation*|
+|```Mobile```|*Android Application*|*IOS Application*||
+<br/>
 
-- #### ```Mobile```
-  - ##### *Android Application*
-
-<br/><br/> 
+---
 
 ### AI Projects
 |Repo|Type|Content|etc|
@@ -83,25 +80,18 @@
 |[kotlin_algorithm_training](https://github.com/hololee/kotlin_algorithm_training)|training|코틀린 알고리즘 풀이|-|
 |[Universal backprojection](https://github.com/hololee/universial_backprojection)|JAVA|Implement universal backprojection by JAVA.|-|
 
-<br/><br/> 
+<br/>
+
+---
 
 ### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-### LinkedIn
-https://www.linkedin.com/in/hololee-0410201b3/
-
-### DockerHub  
-자주 사용한는 pytorch, tensorflow 이미지를 공유합니다.  
-https://hub.docker.com/  
-
-
-### Blog  
-코딩하며 경험한 여러가지 문제들의 해결과 저장용 팁, 취미를 공유하는 블로그 입니다.  
-https://blog.naver.com/lccandol  
+  |LinkedIn|DockerHub| Blog  |
+  |---|----|---|
+  |https://www.linkedin.com/in/hololee-0410201b3|https://hub.docker.com|https://blog.naver.com/lccandol|
 
 
 ### Certificate
-![iamges](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/27794316)
-![images](https://github.com/hololee/hololee/blob/main/deep.jpg?raw=true)
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/27794316" height="350"><img src="https://github.com/hololee/hololee/blob/main/deep.jpg?raw=true" height="350">
+
