@@ -84,7 +84,8 @@
 <br/><br/> 
 
 ### Status
-[![top languages2](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ### LinkedIn
 https://www.linkedin.com/in/hololee-0410201b3/
