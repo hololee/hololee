@@ -2,18 +2,18 @@
 
 ### Now I'm working for
 <img src="https://github.com/hololee/hololee/blob/main/grepp.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/pro.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/mo.png?raw=true" height="60">
-<br/><br/> 
-
----
+<br/>
 
 ### My tasks
 |Task|||||
 |:---:|:---:|:---:|:---:|:---:|
 |```Vision```| *Classification* |*Object Detection*|*Semantic Segmentation*|*Instance Segmentation*|
-|```Mobile```|*Android Application*|*IOS Application*||
-<br/>
+|```Mobile```|*Android Application*|*IOS Application*||   
 
----
+<br/><br/>
+
+# Projects   
+
 
 ### AI Projects
 |Repo|Type|Content|etc|
@@ -79,9 +79,10 @@
 |[kotlin_algorithm_training](https://github.com/hololee/kotlin_algorithm_training)|training|코틀린 알고리즘 풀이|-|
 |[Universal backprojection](https://github.com/hololee/universial_backprojection)|JAVA|Implement universal backprojection by JAVA.|-|
 
-<br/>
+<br/><br/>
 
----
+# ETC   
+
 
 ### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
