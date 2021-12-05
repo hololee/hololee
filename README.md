@@ -37,18 +37,18 @@
 <br/>
 
 ### APP Projects 
-|Repo|Type|Content|etc|
-|---|---|---|---|
-|[Edge-Meteorite-Avoidance-Game](https://github.com/hololee/Edge-Meteorite-Avoidance-Game)|Android-Game|운석 피하기 게임|Unity2D|
-|[FRAME_ANDROID](https://github.com/hololee/FRAME_ANDROID)|Android|FRAME 서비스 앱|-|
-|[FRAME_IOS](https://github.com/hololee/FRAME_IOS)|IOS|FRAME 서비스 앱|-|
-|[worka-holic](https://github.com/hololee/worka-holic)|Android|워커홀릭 쇼핑몰 웹앱|-|
-|[multi-auto-timer](https://github.com/hololee/multi-auto-timer)|Android|만능 타이머 앱|-|
-|[dream-note](https://github.com/hololee/dream-note)|Android|꿈이 이루어지는 노트|-|
-|tablet-stylus, [tablet-stylus-lite](https://github.com/hololee/tablet-stylus-lite)|Android|스마트폰을 디지타이저로 사용|-|
-|quick-menu, [quick-menu-lite](https://github.com/hololee/quick-menu-lite)|Android|화면에 떠다니는 단축키|-|
-|daily-plan-lite, [daily-plan-lite](https://github.com/hololee/daily-plan-lite)|Android|심플 데일리 다이어리|-|
-|[d-day](https://github.com/hololee/d-day)|Android|강력하고 심플한 d-day 위젯|누적 14만 달성|
+|Repo|Type|Content|etc|status|
+|---|---|---|---|---|
+|[Edge-Meteorite-Avoidance-Game](https://github.com/hololee/Edge-Meteorite-Avoidance-Game)|Android-Game|운석 피하기 게임|Unity2D|[PRODUCT](https://play.google.com/store/apps/details?id=com.han.edge)|
+|[FRAME_ANDROID](https://github.com/hololee/FRAME_ANDROID)|Android|FRAME 서비스 앱|-|PAUSED|
+|[FRAME_IOS](https://github.com/hololee/FRAME_IOS)|IOS|FRAME 서비스 앱|-|PAUSED|
+|[worka-holic](https://github.com/hololee/worka-holic)|Android|워커홀릭 쇼핑몰 웹앱|-|PAUSED|
+|[multi-auto-timer](https://github.com/hololee/multi-auto-timer)|Android|만능 타이머 앱|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.hanstudio.timer.multiautotimer)|
+|[dream-note](https://github.com/hololee/dream-note)|Android|꿈이 이루어지는 노트|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.hanstudio.dream.dreamnote)|
+|tablet-stylus, [tablet-stylus-lite](https://github.com/hololee/tablet-stylus-lite)|Android|스마트폰을 디지타이저로 사용|-|PAUSED|
+|quick-menu, [quick-menu-lite](https://github.com/hololee/quick-menu-lite)|Android|화면에 떠다니는 단축키|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.hanstudio.timer.multiautotimer)|
+|daily-plan-lite, [daily-plan-lite](https://github.com/hololee/daily-plan-lite)|Android|심플 데일리 다이어리|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.kiristudio.lee.jong.hyuck)|
+|[d-day](https://github.com/hololee/d-day)|Android|강력하고 심플한 d-day 위젯|누적 14만 달성|[PRODUCT](https://play.google.com/store/apps/details?id=com.kiristudio.jh.d_day)|
 <br/>
 
 ### Iot Projects 
