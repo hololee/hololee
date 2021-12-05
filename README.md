@@ -35,7 +35,7 @@
 |[Spatial transformer](https://github.com/hololee/spatial_tranformer_network)|-|Spatial transformer 구현 연습|pytorch|
 |[Implement-neural-network-from-scratch](https://github.com/hololee/Implement-neural-network-from-scratch)|-|MLP scratch 구현|Numpy|
 |[Implement-convolutional-neural-network-from-scratch](https://github.com/hololee/Implement-convolutional-neural-network-from-scratch)|-|CNN scratch 구현|numpy|
-|Attention_Auto_Labeling, [coarse-to-fine-segmentation-labelling](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|Semantic Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|soon will be opend|  
+|Attention_Auto_Labeling, [coarse-to-fine-segmentation-labelling](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|Semantic Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|pytorch|  
 |[pruning_network_sample](https://github.com/hololee/pruning_network_sample)|Pruning|pruning 연습|test|
 
 <br/>
