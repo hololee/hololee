@@ -33,6 +33,7 @@
 |[Implement-convolutional-neural-network-from-scratch](https://github.com/hololee/Implement-convolutional-neural-network-from-scratch)|-|CNN scratch 구현|numpy|
 |Attention_Auto_Labeling, [coarse-to-fine-segmentation-labelling](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|Semantic Segmentation|간략한 segmentation label을 작성하여 정확한 label을 생성하는 방법론.|pytorch|  
 |[pruning_network_sample](https://github.com/hololee/pruning_network_sample)|Pruning|pruning 연습|test|
+|[disease-api-server](https://github.com/hololee/disease-api-server), [main-server](https://github.com/jeongahyun/flask-server-main)|Serving|작물 질병 검출 모델들의 웹 서빙 API 서버|flask|
 
 <br/>
 
