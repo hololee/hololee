@@ -50,6 +50,8 @@
 |quick-menu, [quick-menu-lite](https://github.com/hololee/quick-menu-lite)|Android|화면에 떠다니는 단축키|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.hanstudio.timer.multiautotimer)|
 |daily-plan-lite, [daily-plan-lite](https://github.com/hololee/daily-plan-lite)|Android|심플 데일리 다이어리|-|[PRODUCT](https://play.google.com/store/apps/details?id=com.kiristudio.lee.jong.hyuck)|
 |[d-day](https://github.com/hololee/d-day)|Android|강력하고 심플한 d-day 위젯|누적 14만 달성|[PRODUCT](https://play.google.com/store/apps/details?id=com.kiristudio.jh.d_day)|
+|[owl](https://github.com/hololee/owl)|Android|사용량 트레킹을 위한 owl|-|PAUSED|
+
 <br/>
 
 ### Iot Projects 
