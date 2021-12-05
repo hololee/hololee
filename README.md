@@ -37,7 +37,7 @@
 
 <br/>
 
-### APP Projects 
+### Mobile app Projects 
 |Repo|Type|Content|etc|status|
 |---|---|---|---|---|
 |[Edge-Meteorite-Avoidance-Game](https://github.com/hololee/Edge-Meteorite-Avoidance-Game)|Android-Game|운석 피하기 게임|Unity2D|[PRODUCT](https://play.google.com/store/apps/details?id=com.han.edge)|
