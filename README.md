@@ -52,6 +52,7 @@
 |tablet-stylus, [tablet-stylus-lite](https://github.com/hololee/tablet-stylus-lite)|Android|스마트폰을 디지타이저로 사용|-|
 |quick-menu, [quick-menu-lite](https://github.com/hololee/quick-menu-lite)|Android|화면에 떠다니는 단축키|-|
 |daily-plan-lite, [daily-plan-lite](https://github.com/hololee/daily-plan-lite)|Android|심플 데일리 다이어리|-|
+|[d-day](https://github.com/hololee/d-day)|Android|강력하고 심플한 d-day 위젯|누적 14만 달성|
 <br/>
 
 ### Iot Projects 
