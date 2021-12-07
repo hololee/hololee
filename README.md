@@ -92,7 +92,7 @@
 
   |LinkedIn|DockerHub| Blog  |
   |---|----|---|
-  |https://www.linkedin.com/in/hololee-0410201b3|https://hub.docker.com|https://blog.naver.com/lccandol|
+  |https://www.linkedin.com/in/hololee-0410201b3|https://hub.docker.com/u/hololee|https://blog.naver.com/lccandol|
 
 
 ### Certificate
