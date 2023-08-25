@@ -1,7 +1,7 @@
 # AI Engineer Zayden
 
 ### Now I'm working for
-<img src="https://github.com/hololee/hololee/blob/main/grepp.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/pro.png?raw=true" height="60"> <img src="https://github.com/hololee/hololee/blob/main/mo.png?raw=true" height="60">
+<img src="https://github.com/hololee/hololee/blob/main/grepp.png?raw=true" height="60"> 
 <br/>
 
 ### My tasks
