@@ -46,6 +46,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hololee&layout=compact)
 
 ### Certificate
-<img src="https://github.com/hololee/hololee/blob/main/6qlxse1z.png" height="300"><img src="https://github.com/hololee/hololee/blob/main/deep.jpg" height="300">
+<img src="https://github.com/hololee/hololee/blob/main/6qlxse1z.png" height="300"><img src="https://github.com/hololee/hololee/blob/main/deep.jpg" height="300"><img src="https://github.com/hololee/hololee/blob/main/bigdata.png" height="300">
 
 </details>
